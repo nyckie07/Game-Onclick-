@@ -1,0 +1,14 @@
+.elemento {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    top: 50%;
+    left: 10%; 
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+}
